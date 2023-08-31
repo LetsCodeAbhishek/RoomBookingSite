@@ -1,0 +1,80 @@
+
+/* 
+.home-main{
+    background-color: rgb(26, 26, 26);
+} */
+.home-img{
+   
+    background-image: url(../Images/carousel-1.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 120px;   
+    animation: demo 5s infinite linear alternate;
+}
+@keyframes demo {
+
+    to{
+        background-image: url(../Images/carousel-2.jpg);
+    }
+    
+}
+
+.home-heading{
+    color: orange;
+    margin: 80px ;
+    font-size: 50px;
+    font-weight: bolder;
+    padding: 50px;
+    border: 2px solid white;  
+    background-color: rgba(0, 0, 0, 0.691); 
+    border-radius: 20px;
+    box-shadow: 0 0 5px 5px white;
+}
+.home-heading:hover{
+background: rgba(0, 0, 0, 0.864);
+}
+
+
+.home-button{
+    margin: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.home-button-1{
+    color: white;
+    background: orange;
+    margin-right: 30px;
+    border: none;
+    padding: 10px 12px;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+.home-button-1:hover{
+    background:  rgba(236, 154, 2, 0.9);
+    font-size: 20px;
+}
+.home-button-2{
+    color: black;
+    border: none;
+    padding: 10px 12px;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+.home-button-2:hover{
+    background:  rgba(207, 207, 207,0.9);
+    font-size: 20px;
+}
+
+.color-change{
+    color: orange;
+    animation: demo1 1s infinite alternate;
+    text-decoration: underline;
+}
+@keyframes demo1{
+    to{
+        color: white;
+       
+    }
+}

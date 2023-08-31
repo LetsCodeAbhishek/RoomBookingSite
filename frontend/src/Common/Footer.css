@@ -1,0 +1,23 @@
+
+.footer-main{
+    background: rgb(26, 26, 26);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+.footer-main li:hover{
+    color: orange;
+    cursor: pointer;
+}
+.footer-logo{
+    font-size: 40px;
+    font-weight:900;
+    color: orange;
+}
+.footer-last{
+    text-align: center;
+    background: rgb(26, 26, 26);
+    padding: 10px 0;
+    color: white;
+}

@@ -1,0 +1,74 @@
+.login-heading{
+    color: black;
+    font-weight: bold;
+}
+
+.login-main{
+    background-image: url(../Images/carousel-1.jpg);
+    background-size: 100% 100%;
+    text-align: center; 
+
+}
+
+.admin-main{
+    background-image: url(../Images/room2.jpg);
+    background-size: 100% 100%;
+    text-align: center; 
+}
+
+
+.login-style{
+    width: 400px;
+    height: 300px;
+    border: 5px black solid;
+    margin-left: 400px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    background: rgba(255, 255, 255, 0.581);
+    box-shadow: 0 0 5px 5px ;
+    border-radius: 4px;
+}
+.login-form{
+   padding: 15px 0 0px 60px;
+   
+}
+.login-style:hover{
+    background: rgba(255, 255, 255, 0.21);
+}
+/* .login-style, input,button{
+    display: block;
+    
+} */
+/* input, button{
+    margin: 10px;
+} */
+.inputs{
+    width: 75%;
+    font-size: 15px;
+    padding: 5px 0 5px 4px;
+    border-radius: 5px;
+    display: block;
+    margin: 10px;
+}
+.inputs:hover:hover{
+    font-size: 17px;
+}
+
+.login-button{
+    padding: 8px 10px;
+    font-size: 16px;
+    color: white;
+    background-color: orange;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    display: block;
+    margin-left: 85px;
+    margin-top: 20px;
+}
+
+.login-button:hover{
+    background:  rgba(236, 154, 2, 0.9);
+    font-size: 18px;
+}
+

@@ -1,0 +1,68 @@
+.viewroom-base{
+     background-image: url(../Images/room3.jpg) ;
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+     
+     
+}
+
+.viewroom-body{
+    border: 2px solid black;
+    width: 30%;
+    height: 380px;
+    box-shadow: 0 5px 5px 5px black;
+    margin: 20px;
+    text-align: center;
+    padding: 10px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: white;
+    border-radius: 10px;
+    margin-bottom: 70px;
+        
+    
+}
+.viewroom-body:hover{
+    margin: 50px;
+
+}
+.viewroom-main{
+    display: flex;
+    justify-content: space-around;  
+    flex-wrap: wrap;
+    
+}
+.viewroom-button-1{
+    color: white;
+    background-color: orange;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+.viewroom-button-1:hover{
+    font-size: 20px;
+}
+.viewroom-button-2{
+    color: white;
+    background-color: black;
+    margin-left: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+.viewroom-button-2:hover{
+    font-size: 20px;
+}
+.viewroom-button{
+    margin-top: 10px;
+}
+.viewroom-table{
+    color: black;
+    border: 2px solid white;
+    
+   
+}
+.viewroom-button-2 a{
+    color: white;
+    text-decoration: none;
+}

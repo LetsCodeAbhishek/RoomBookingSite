@@ -1,0 +1,43 @@
+
+
+.sign-main{
+    background-image: url(../Images/carousel-2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.sign-base{
+    width: 500px;
+    height: 600px;
+    border: 10px solid black;
+    padding-left: 100px;
+    margin: 100px 0 100px 350px;
+    background: rgba(0, 0, 0, 0.53);
+    color: black;
+    padding-top: 50px;
+}
+.sign-base:hover{
+    background: rgba(0, 0, 0, 0.33);
+
+}
+.sign-input{
+    display: block;
+    width: 250px;
+    
+}
+.sign-input:hover{
+    font-size: 15px;
+}
+.sign-label{
+    margin-top: 20px;
+    color: white;   
+}
+
+.sign-button{
+    background-color: orange;
+    font-size: 15px;
+    font-weight: bold;
+}
+.sign-button:hover{
+    font-size: 20px;
+}

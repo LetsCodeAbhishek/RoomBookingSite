@@ -1,0 +1,63 @@
+.adminlogin-heading{
+    color: black;
+    font-weight: bold;
+}
+
+
+
+.admin-main{
+    background-image: url(../Images/room2.jpg);
+    background-size: 100% 100%;
+    text-align: center; 
+}
+
+
+.adminlogin-style{
+    width: 400px;
+    height: 300px;
+    border: 5px black solid;
+    margin-left: 400px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    background: rgba(255, 255, 255, 0.582);
+    box-shadow: 0 0 5px 5px ;
+    border-radius: 4px;
+}
+.adminlogin-form{
+   padding: 15px 0 0px 60px;
+   
+}
+.adminlogin-style:hover{
+    background: rgba(255, 255, 255, 0.21);
+}
+
+.inputs{
+    width: 75%;
+    font-size: 15px;
+    padding: 5px 0 5px 4px;
+    border-radius: 5px;
+    display: block;
+    margin: 10px;
+}
+.inputs:hover:hover{
+    font-size: 17px;
+}
+
+.adminlogin-button{
+    padding: 8px 10px;
+    font-size: 16px;
+    color: white;
+    background-color: orange;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    display: block;
+    margin-left: 85px;
+    margin-top: 20px;
+}
+
+.adminlogin-button:hover{
+    background:  rgba(236, 154, 2, 0.9);
+    font-size: 18px;
+}
+

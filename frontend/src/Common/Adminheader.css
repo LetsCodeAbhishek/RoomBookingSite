@@ -1,0 +1,24 @@
+
+
+.adminheader-main{
+    background: rgb(26, 26, 26);
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    }
+ 
+    .adminheader-td{
+        padding: 20px;
+    }
+    
+    .a-logo{
+        font-size: 30px;
+        font-weight: bolder;
+        color: orange;
+    }
+    .adminheader-td a{
+        color: white;
+    }
+    .adminheader-td a:hover{
+        color: orange;
+    }

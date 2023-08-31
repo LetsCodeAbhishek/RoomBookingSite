@@ -1,0 +1,51 @@
+
+
+.booknow-heading{
+    font-weight: bold;
+}
+
+
+.bookroom-input{
+    display: block;
+    width: 200px;
+    margin-left: 180px;
+    margin-top: 20px;
+    
+}
+.bookroom-input:hover{
+    font-size: 18px;
+}
+
+
+
+.booknow-main{
+    border: 5px solid black;
+    width: 50%;
+    height: 600px;
+    text-align: center;
+    margin: 200px 0 200px 300px;
+    color: black;
+    background: rgba(255, 255, 255, 0.286);
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px ;
+    
+}
+.booknow-base{
+    background-image: url(../Images/carousel-2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.booknow-button{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 10px;
+    color: white;
+    background: black;
+    border-radius: 6px;
+}
+.booknow-button:hover{
+    color: orange;
+    font-size: 23px;
+}
+

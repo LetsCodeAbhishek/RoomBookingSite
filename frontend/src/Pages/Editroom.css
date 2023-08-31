@@ -1,0 +1,11 @@
+.editroom-main{
+    background: linear-gradient(to right, lightgreen, lightblue);
+    
+}
+.editroom-base{
+    margin: 100px 0 200px 350px;
+}
+.editroom-input{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

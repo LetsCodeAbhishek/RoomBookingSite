@@ -1,0 +1,26 @@
+
+.user-main{
+    text-align: center;
+    
+}
+.user-heading{
+    text-align: center;
+    margin: 20px 0 30px 0;
+    background: linear-gradient(to right, orange, yellow);
+
+}
+.vfeedback-th{
+    text-align: center;
+    background: lightblue;
+    font-size: 20px;
+}
+
+.vfeedback-tr td{
+    padding: 10px;
+    font-size: 15px;
+}
+.vfeedback-tr td:hover{
+    background-color: rgba(255, 166, 0, 0.592);
+    font-size: 20px;
+}
+

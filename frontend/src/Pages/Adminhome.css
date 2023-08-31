@@ -1,0 +1,90 @@
+
+.adminhome-main{
+    background-image: url(../Images/room2.jpg) ;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+
+.adminhome-base{
+    border: 5px solid black;
+    width: 50%;
+    height: 300px;
+    margin: 200px 0 20px 300px;
+    text-align: center;
+    padding-top: 30px;
+    background: rgba(0, 0, 0, 0.322);
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px black;
+    animation: demo2 3s alternate linear infinite;
+}
+@keyframes demo2 {
+    to {
+        background: rgba(0, 0, 0, 0.83);
+        
+    }
+    
+}
+
+.adminhome-h1{
+    font-size: 60px;
+    color: white;
+}
+.adminhome-h1:hover{
+    font-size: 50px;
+}
+
+.adminhome-h2{
+    font-size: 40px;
+    color: white;
+    animation: demo3 1s alternate infinite;
+}
+.adminhome-h2:hover{
+    font-size: 50px;
+}
+@keyframes demo3 {
+    to{
+        color: orange;
+    }
+    
+}
+
+.adminhome-h3{
+    font-size: 30px;
+    color: white;
+}
+.adminhome-h3:hover{
+    font-size: 50px;
+}
+
+.adminhome-button{
+    margin-bottom: 150px;
+    margin-top: 50px;
+    height: 20px;
+    
+}
+.adminhome-button-1{
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 5px;
+}
+.adminhome-button-1:hover{
+    font-size: 30px;
+}
+
+.adminhome-button-2{
+    background: white;
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.adminhome-button-2:hover{
+    font-size: 30px;
+}
+
+

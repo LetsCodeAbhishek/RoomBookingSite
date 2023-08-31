@@ -1,0 +1,41 @@
+
+.addroom-base{
+    background-image: url(../Images/room4.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+.addroom-main{
+    color: black;
+    border: 5px solid black;
+    width: 50%;
+    height: 400px;
+    margin: 200px 0 200px 300px;
+    padding-top: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+.addroom-input{
+    display: block;
+    width: 50%;
+    font-size: 18px;
+    margin: 20px 0 0 130px;
+    border-radius: 5px;
+
+}
+.addroom-input:hover{
+    font-size: 20px;
+}
+
+.addroom-button{
+    margin-top: 15px;
+    background-color: orange;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.addroom-button:hover{
+    font-size: 20px;
+}

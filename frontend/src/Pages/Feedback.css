@@ -1,0 +1,39 @@
+
+.feedback-base{
+    background-image: url(../Images/room2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.feedback-main{
+    width: 400px;
+    height: 300px;
+    border: 5px solid black;
+    margin: 200px 0 200px 0;
+    padding-left: 70px;
+    padding-top: 30px;
+    background: rgba(0, 0, 0, 0.386);
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px white;
+}
+.feedback-input{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+    font-size: 15px;
+}
+.feedback-button{
+    margin-top: 20px;
+    margin-left: 80px;
+    font-size: 15px;
+    padding: 5px 8px;
+    border-radius: 5px;
+    background-color: orange;
+    font-weight: bold;
+    color: white;
+    ;
+}
